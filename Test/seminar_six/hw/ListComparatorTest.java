@@ -1,3 +1,5 @@
+package seminar_six.hw;
+
 import org.junit.jupiter.api.Test;
 import seminar_six.hw.ListComparator;
 
