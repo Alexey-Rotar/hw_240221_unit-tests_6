@@ -8,3 +8,6 @@ V
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 [
 +Test/seminar_six/hw/ListComparatorTest.java,d/6/d653d8ab72090aca72496778fd942758db7e5dca
+:
+
+readme.txt,4/5/451685e9efac4a6dc1fee73ec53ffb6b2c4c38b5

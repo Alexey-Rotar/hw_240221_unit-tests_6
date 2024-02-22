@@ -24,6 +24,8 @@ public class ListComparator {
             throw new IllegalArgumentException("List is empty!");
         double sum = 0;
         for (Integer item : list) {
+            if (item == null)
+                throw new IllegalArgumentException("List element is null!");
             sum += item;
         }
         return sum/list.size();
