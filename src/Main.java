@@ -10,7 +10,7 @@ public class Main
         ListComparator lc = new ListComparator();
         List<Integer> list1 = new ArrayList<>(Arrays.asList(5,6,7,8,9));
         List<Integer> list2 = new ArrayList<>(Arrays.asList(1,2,3,4));
-        List<Integer> list3 = new ArrayList<>(Arrays.asList(5,6,null,8,9));
+        List<Integer> list3 = new ArrayList<>(Arrays.asList(5,6,7,8,9));
 
         System.out.println("1 случай:");
         lc.compare(list1, list2);
