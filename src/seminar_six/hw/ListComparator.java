@@ -12,7 +12,7 @@ public class ListComparator {
                 System.out.println("Второй список имеет большее среднее значение");
             else
                 System.out.println("Средние значения равны");
-        } catch (Exception e) {
+        } catch (IllegalArgumentException e) {
             throw new IllegalArgumentException(e.getMessage());
         }
     }
